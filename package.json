@@ -1,0 +1,15 @@
+{
+  "name": "aravind-eye-hospital",
+  "version": "1.0.0",
+  "description": "Aravind Eye Hospital - Leading Eye Care Services",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 53307",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {}
+}
